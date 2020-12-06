@@ -1,4 +1,3 @@
-# MediaWiki-Terraform
 
 # MediaWiki-Terraform
 
